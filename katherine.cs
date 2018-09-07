@@ -1,3 +1,6 @@
+//This code belongs to Adam Korytowski, Kraków, Poland
+
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
